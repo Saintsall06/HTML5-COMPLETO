@@ -1,0 +1,61 @@
+Aqui estão todas as variáveis de HTML:
+
+Estrutura Básica
+- <!DOCTYPE html>: Declaração do tipo de documento
+- <html>: Elemento raiz da página
+- <head>: Seção de cabeçalho da página
+- <body>: Seção de conteúdo da página
+
+Cabeçalho
+- <title>: Título da página
+- <meta>: Metadados da página (ex: charset, descrição, palavras-chave)
+- <link>: Link para folhas de estilo ou outros recursos
+- <style>: Estilos CSS inline
+- <script>: Scripts JavaScript
+
+Conteúdo
+- <h1>-<h6>: Títulos de headings
+- <p>: Parágrafo de texto
+- <img>: Imagem
+- <a>: Link
+- <ul>/<ol>/<li>: Listas
+- <table>/<tr>/<td>: Tabelas
+- <form>: Formulários
+- <input>: Campos de entrada
+- <textarea>: Áreas de texto
+- <select>/<option>: Listas de opções
+- <button>: Botões
+
+Formatação de Texto
+- <b>: Negrito
+- <i>: Itálico
+- <u>: Sublinhado
+- <s>: Riscado
+- <sub>: Subscrito
+- <sup>: Sobrescrito
+
+Links e Âncoras
+- <a>: Link
+- <a href="#">: Link para uma âncora
+- <a name="#">: Âncora
+
+Imagens e Vídeos
+- <img>: Imagem
+- <video>: Vídeo
+- <audio>: Áudio
+
+Listas e Tabelas
+- <ul>/<ol>/<li>: Listas
+- <table>/<tr>/<td>: Tabelas
+
+Formulários e Campos de Entrada
+- <form>: Formulários
+- <input>: Campos de entrada
+- <textarea>: Áreas de texto
+- <select>/<option>: Listas de opções
+
+Outros
+- <div>: Divisor
+- <span>: Span
+- <br>: Quebra de linha
+- <hr>: Linha horizontal
